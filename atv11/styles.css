@@ -1,0 +1,48 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.general{
+    max-width: 960px;
+    padding: 30px 10px;
+    background-color: wheat;
+}
+
+.top {
+    width:900px;
+    height:240px;
+    background-color: black;
+}
+
+.menu {
+    height: 60px;
+    width: 900px;
+    margin: 10px 0;
+     background-color: blue;
+}
+
+.wrap{
+    display: flex;
+   
+}
+
+.aside {
+    width: 200px;
+    height:700px;
+     background-color: green;
+     margin-right: 30px;
+}
+
+.content { 
+    width:670px;
+    height:700px; 
+     background-color: yellow;
+}
+
+.footer{
+    height: 50px;
+    width: 900px; 
+    margin: 10px 0;
+     background-color: violet;
+}
